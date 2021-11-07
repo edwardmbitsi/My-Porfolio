@@ -1,7 +1,7 @@
 ### Edward Mbitsi's Portfolio.
 ### Hi there 👋 I am Edward Mbitsi.
 ### This project gives out information about me.
-### https://github.com/edwardmbitsi/edwardmbitsi
+### https://edwardmbitsi.github.io/edwardmbitsi/
 ### I am currently learning web development.
 ### I am interested in learning android development.
 ### None of the images used in this project are actually mine.Source: Pinterest.com
