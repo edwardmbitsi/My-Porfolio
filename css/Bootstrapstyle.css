@@ -49,3 +49,11 @@ font-size: 150%;
 font-size: 150%;
 
 }
+a[href^="mailto"]::before {
+    content: "📧 ";
+}
+
+a[href^="tel"]::before {
+    content: "📞 ";
+}
+
