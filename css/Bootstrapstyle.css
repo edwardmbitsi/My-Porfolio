@@ -53,10 +53,4 @@ font-size: 150%;
 .featuratte-heading{
 font-size: 150%;
 }
-a[href^="mailto"]::before {
-    content: "📧 ";
-}
 
-a[href^="tel"]::before {
-    content: "📞 ";
-}
