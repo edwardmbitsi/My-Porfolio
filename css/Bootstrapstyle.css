@@ -31,6 +31,9 @@
   #demoimage {
     float: left ;
   }
+  #demotext {
+      font-family:'Crimson Text', serif;
+  }
 
 .lead{
     font-family: 'Mate', serif;
