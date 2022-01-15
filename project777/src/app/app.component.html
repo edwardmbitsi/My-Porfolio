@@ -1,0 +1,25 @@
+<div class="search-box">
+  <input class="text-box" type="text"  #myInput placeholder="Github Username">
+</div>
+  <button class="search" (click)="onSearchBtnClick(myInput.value)">Search</button>
+
+<div class="row">
+  <div class="column">
+    <div *ngFor="let user of users">
+      <h4>{{user.login}}</h4>
+      <img [src]="user.avatar_url" [alt]="user.login">
+      <button (click)="onViewRepoBtnClick(user)" class="search">View Repos</button>
+    </div>
+  </div>
+  <div class="column">
+    <div *ngFor="let repo of repos" style="text-align: center;">
+      {{repo.name}}
+    </div>
+  </div>
+</div>
+
+
+
+
+
+<!-- (keyup)="onSubmit($event)" [(ngModel)]="searchValue" -->
