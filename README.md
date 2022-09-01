@@ -1,13 +1,10 @@
-### Edward Mbitsi's Portfolio.
+
 ### Hi there 👋 I am Edward Mbitsi.
-### This project gives out information about me.
-### https://edwardmbitsi.github.io/edwardmbitsi/
-### I am currently learning web development.
-### I am interested in learning android development.
-### None of the images used in this project are actually mine.Source: Pinterest.com
-### Ask me anything about HTML or CSS.
-### How to reach me: edwardmbitsi@gmail.com
-### Fun fact: Most developers like dark mode because it doesnt attract bugs.
+### Welcome to my github.
+### https://mb1tsi.github.io/Porfolio/ to view my porfolio website
+### I am currently learning flutter and react.
+### For any inquiries: edwardmbitsi@gmail.com
+### I am looking to collaborate on a React js project
 
 <!--
 **edwardmbitsi/edwardmbitsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
