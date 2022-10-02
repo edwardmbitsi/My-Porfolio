@@ -1,7 +1,7 @@
 
 ### Hi there 👋 I am Edward Mbitsi.
 ### Welcome to my github.
-### https://edwardmbitsi.github.io/edwardmbitsi/ to view my porfolio website
+### https://edwardmbitsi.github.io/My-Porfolio/ to view my porfolio website
 ### I am currently learning flutter and react.
 ### For any inquiries: edwardmbitsi@gmail.com
 ### I am looking to collaborate on a React js project
